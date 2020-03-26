@@ -1,0 +1,58 @@
+main{
+    background-color: #707684;
+    margin: 60px;
+    background-size: auto;
+    text-align: center;
+    border-radius: 30px;
+}
+body{
+    background-color: #838992;
+
+}
+h1{
+    background-color: rgba(145, 221, 240, 0.801);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px red;
+    font-size: 3em;
+}
+figure{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 250px;
+    margin: 0 30px;
+    border-radius: 21px;
+}
+figcaption{
+    font-size: 40px;
+   font-family: 'Satisfy', cursive;
+   text-shadow:2px 2px red;
+}
+figure:hover{
+    background-color: rgba(145, 221, 240, 0.801);
+    cursor: grab;
+    color: red;
+    border-radius: 21px;
+}
+#firstdiv{
+    display: flex;
+    justify-content: center;
+}
+#second-div{
+    display: flex;
+    justify-content: center;
+
+}
+#third-div{
+    display: flex;
+    justify-content: center;
+
+}
+#forth-div{
+    display: flex;
+    justify-content: center;
+
+    
+}
